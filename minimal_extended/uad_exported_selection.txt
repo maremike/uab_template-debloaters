@@ -1,6 +1,7 @@
 android.autoinstalls.config.samsung
 com.android.calllogbackup
 com.android.chrome
+com.android.egg
 com.android.hotwordenrollment.okgoogle
 com.android.hotwordenrollment.xgoogle
 com.android.providers.partnerbookmarks
