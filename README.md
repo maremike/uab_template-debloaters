@@ -1,4 +1,4 @@
-This debloater is designed for a Samsung phone. I could only test my own (Samsung S20 FE).
+These debloater files were designed for a Samsung phone. I could only test it on my own (Samsung S20 FE).
 \
 \
 To use it you have to download the listed file in the folder and put it inside the unzipped android sdk folder with the executable for the UAB (universal android debloater). If you do this and start the executable, you will have preselected packages. To remove them change the Tab "Recommended" to "All" and press "Uninstall".
