@@ -11,7 +11,7 @@ With standard you will still have most apps such as Google, Samsung pass, Samsun
 \
 "Minimal Recommended" contains package names that if uninstalled, will greatly reduce the resources of the phone. Many unnecessary apps will be gone, some functions might not work but the most necessary functions will work. This includes the packages for all browsers (install your own via an apk from USB).
 \
-"Minimal All" lists more packages that can be removed. If removed there is a bigger chance of it being more unstable rather than the recommended version.
+"Minimal All" lists more packages that can be removed. If removed there is a bigger chance of it being more unstable rather than the recommended version. (Dex for example. Nobody ever uses Dex right?)
 \
 \
 "Custom" is a version that I personally use. I wanted to minimise everything, but still retain the functions that I need everyday. If you want you might wanna try it. I dont need Accessibility, Samsung DEX, weather, find my mobile and samsung pay. And more. I download dialer, calculater, contacts, browsers, etc. that are open source. I still kept some Samsung apps, because they contain relevant code for alternatives in them (for example an external calendar app would not work without the Samsung calendar).
