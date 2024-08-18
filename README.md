@@ -13,3 +13,7 @@ With standard you will still have most apps such as Google, Samsung pass, Youtub
 \
 \
 "Custom" is a version that I personally use. I wanted to minimise everything, but still retain the functions that I need everyday. If you want you might wanna try it. I dont need Accessibility, Samsung DEX, weather, samsung pay... And more. I download dialer, calculater, contacts, browsers, etc. that are open source. I still kept some Samsung apps, because they contain relevant code for alternatives in them (for example an external files app would not work without the Samsung Files app).
+\
+\
+\
+Important: Some packages might be region dependent. As Im from Germany, one package starts with "de". If a certain package is not found, it will simply be ignored. But the packages that are region dependent usually have something to do with SIM card, or Samsungs advertisement. I have not made selections in correlation to ISP packages. Which is not much. You dont have to search for unnecessary pacakges yourself.
