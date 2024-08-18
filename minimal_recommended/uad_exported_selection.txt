@@ -78,7 +78,6 @@ com.sec.android.app.desktoplauncher
 com.sec.android.app.dexonpc
 com.sec.android.app.SecSetupWizard
 com.sec.android.app.setupwizardlegalprovider
-com.sec.android.daemonapp
 com.sec.android.desktopmode.uiservice
 com.sec.android.diagmonagent
 com.sec.android.easyMover.Agent
