@@ -1,7 +1,6 @@
 android.autoinstalls.config.samsung
 com.android.calllogbackup
 com.android.chrome
-com.android.egg
 com.android.hotwordenrollment.okgoogle
 com.android.hotwordenrollment.xgoogle
 com.android.providers.partnerbookmarks
@@ -32,6 +31,8 @@ com.microsoft.skydrive
 com.netflix.mediaclient
 com.netflix.partner.activation
 com.samsung.aasaservice
+com.samsung.android.aircommandmanager
+com.samsung.android.app.camera.sticker.facearavatar.preload
 com.samsung.android.app.omcagent
 com.samsung.android.app.reminder
 com.samsung.android.app.routines
@@ -56,6 +57,7 @@ com.samsung.android.game.gos
 com.samsung.android.ipsgeofence
 com.samsung.android.kidsinstaller
 com.samsung.android.knox.analytics.uploader
+com.samsung.android.knox.attestation
 com.samsung.android.knox.containercore
 com.samsung.android.knox.pushmanager
 com.samsung.android.location
@@ -72,6 +74,8 @@ com.samsung.android.rubin.app
 com.samsung.android.samsungpass
 com.samsung.android.samsungpassautofill
 com.samsung.android.scloud
+com.samsung.android.sdk.handwriting
+com.samsung.android.service.livedrawing
 com.samsung.android.shortcutbackupservice
 com.samsung.android.smartcallprovider
 com.samsung.android.smartface
@@ -79,7 +83,6 @@ com.samsung.android.smartswitchassistant
 com.samsung.android.stickercenter
 com.samsung.android.svcagent
 com.samsung.android.svoiceime
-com.samsung.android.themestore
 com.samsung.android.video
 com.samsung.android.visionintelligence
 com.samsung.faceservice
@@ -88,7 +91,6 @@ com.samsung.klmsagent
 com.samsung.knox.securefolder
 com.samsung.safetyinformation
 com.samsung.storyservice
-com.sec.android.app.applinker
 com.sec.android.app.chromecustomizations
 com.sec.android.app.clockpackage
 com.sec.android.app.desktoplauncher
