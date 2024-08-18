@@ -57,6 +57,7 @@ com.samsung.android.privateshare
 com.samsung.android.rubin.app
 com.samsung.android.samsungpass
 com.samsung.android.samsungpassautofill
+com.samsung.android.samsungpositioning
 com.samsung.android.sdk.handwriting
 com.samsung.android.service.livedrawing
 com.samsung.android.shortcutbackupservice
